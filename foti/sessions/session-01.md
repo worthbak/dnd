@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 1 - Captured by Pirates
 ---
 

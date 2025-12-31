@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 5 - Victory and the Treasure Hoard
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 11 - Capturing the Sudranian Ship
 ---
 

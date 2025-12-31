@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: session
 title: Session 10 - Exploring the Fortress
 ---
 

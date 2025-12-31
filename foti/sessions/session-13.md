@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 13 - Arrival in Baldur's Gate
 ---
 

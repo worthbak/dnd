@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 7 - Beach Battle and Infiltration Plans
 ---
 

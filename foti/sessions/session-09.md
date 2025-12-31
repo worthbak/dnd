@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 9 - Defeating Hex and Taking Command
 ---
 

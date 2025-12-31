@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 14 - The Devil's Deal
 ---
 

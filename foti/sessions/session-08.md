@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 8 - Confronting Hex
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 12 - The Dusk Arrow and Baldur's Gate Plans
 ---
 

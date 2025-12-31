@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% assign path_parts = page.path | split: "/" %}
+{% assign campaign = path_parts[0] %}
+
+<p><a href="{{ site.baseurl }}/{{ campaign }}/">← Back to Sessions</a></p>
+
+{{ content }}

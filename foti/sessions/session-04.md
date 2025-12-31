@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 4 - The Obsidian Helm and Crutchley's Betrayal
 ---
 

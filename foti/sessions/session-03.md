@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 3 - The Ruins and the Necromancer's Heart
 ---
 

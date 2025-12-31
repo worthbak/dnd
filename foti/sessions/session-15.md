@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 15 - Interrogation and Visions of Vapori
 ---
 

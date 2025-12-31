@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 16 - Market Ambush and Lantern Prison
 ---
 

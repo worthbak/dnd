@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 6 - Planning the Pirate Takeover
 ---
 

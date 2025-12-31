@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Session 2 - Meeting Vapori Kelran
 ---
 
