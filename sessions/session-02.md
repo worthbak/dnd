@@ -1,0 +1,37 @@
+---
+layout: default
+title: Session 2 - Meeting Vapori Kelran
+---
+
+- gang listens to [[Marland 'Iron Chest' Crutchley]]
+- [[Tav]] gets a nat20 insight
+	- gleans insight about potential connections to the [[Kingdom of Sudrania]]
+	- probably not "just" a treasure 
+- Tav leaves the interaction, wants to find the remaining crew
+	- others wanna escape 
+	- party splits up
+- Tav explores the pirate base
+	- finds the mess, the armory
+	- recons the ship (skeleton crew, some guards)
+	- takes some food, attempts to take weapons but is stopped after a tense exchange 
+- Oz/Dolrum find their way up the ladder to the cliff where [[Eme Isbland]] and the crew just arrived 
+	- after some deliberation, Oz leaves to find Tav, and Dolrum tries to make some salmon (?) for the crew (he miserably fails and burns the shit out of the salmon)
+	- Also at some point Dolrum calls Tav crazy or emotional or something
+- eventually Oz finds Tav and they wind their way up to the surface with the crew
+	- hatch closes behind them
+	- they take a long rest 
+- in the morning, they head out, not quite agreeing on their destination
+	- Tav wants to scout the beach as a safe spot for the crew to hang while they look for help/escape, Dolrum wants to go for the treasure 
+	- they move through the jungle, and have some idle conversation 
+	- O/T learn how D got his weird armor 
+	- Oz and Tav are forming a relationship, and Dolrum remains a weirdo 
+- as they talk, they hear thuds and a shout for help
+- find [[Vapori Kelran]]
+	- help her, slaying the plants 
+	- party takes minimal damage
+	- Tav has a big Hail of Thorns hit
+	- Dolrum does his thing, hitting a few times and also rolling a 2/3 reckless attack lol
+	- Oz deals the killing blows with sneak attack on the big plant and a dagger attack ending the twig blight 
+- after the battle, she explains what she's doing / lore dump
+	- they agree to help her find [[The Obsidian Helm]], which she'll then use to summon some sea creatures, either to help them escape or to defeat the pirates 
+- session ends with Tav openly / jokingly questioning Dolrum's assertion that they're all friends 

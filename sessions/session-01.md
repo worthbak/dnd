@@ -1,0 +1,31 @@
+---
+layout: default
+title: Session 1 - Captured by Pirates
+---
+
+- [[Ostrym (Oz)]] cracked the safe, didn't steal the gold
+- Oz asked [[Dolrum Redfist]] about the food
+	- Dolrum gave him some shit but eventually relented until he saw Oz sneaking in the captains quarters 
+	- left on bad terms 
+- [[Tav]] talked with [[Eme Isbland]], took her notes on keeping a lookout 
+- spotted [[The Night's Fortune]] as they came out of the fog
+- Pirates won the combat as expected, though more narrowly than expected
+	- pirates suffered heavy losses 
+- PCs woke up in pirates prison in [[Masaharro Lagoon]] on [[Kipsend Island]]
+- Oz had his thieves tools hidden and used them to crack open the cell door
+- [[Vapori Kelran]] disguised as Rickers Townsend gave them some water 
+- party heard one group of prisoners shot at the end of the hallway 
+- party started making some noise, prison guard came to investigate 
+	- as he approached, Dolrum bashed him with the door and they killed him
+- party opened the rest of the cells, freeing their six other allies (including Eme)
+- entering the room at the other end of the hall, they were greeted by [[Marland 'Iron Chest' Crutchley]]
+	- he laid out the deal for them
+	- party accepted, all other sailors rejected 
+- session ended with the party getting their gear back, plus on healing potion each 
+- DM lessons
+	- Pay more attention to prep notes - needed to have place names closer at hand
+	- Check concentration in combat! 
+	- pirate minions added spice to combat, but making the sailors tougher extended the fight 
+	- Big baddies need multi attack 
+	- Prep specific spells ahead of time 
+	- Have a more specific plan of attack, especially for spellcasters 
