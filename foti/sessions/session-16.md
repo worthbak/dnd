@@ -51,14 +51,14 @@ Dec 20 2026
 
 ### Lich Threat Assessment
 
-- Lylock: ancient Netherese wizard, crashed in marshlands
-- Commands army of lesser liches
-- Phylactery-based immortality (similar to stasis crystal concept)
-- Avoid direct confrontation recommended
+- **Larloch**: ancient Netherese wizard, defeated and crashed in marshlands
+- Said to command army of lesser liches
+- Phylactery-based immortality - life force is stored in physical object(s), and lich cannot die while the object is intact 
+- Larloch is immensly powerful - avoid direct confrontation recommended
 
 ### Next Steps
 
 - Party planning voyage to Lantern Prison to rescue Vapori
-- Olivie joining expedition, staying on ship temporarily
+- Olivie staying on ship temporarily
 - Additional Baldur’s Gate activities to be planned via group chat
 - Map and navigation details provided for northern route
