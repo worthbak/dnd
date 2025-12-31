@@ -42,12 +42,12 @@ Sun, 30 Nov 25
 
 ### Shopping & Equipment Upgrades
 
-- Tab acquired Bracers of Archery (requires attunement) by trading looted antiques
+- Tav acquired Bracers of Archery (requires attunement) by trading looted antiques
 - Purchased 6 healing potions (250 gold), thieves’ tools (50 gold)
 - Scouted expensive magical items at Vethna’s Curios (expensive british), Varg’s Pawn (cockney) Shop, and Lysippe's Jewelry (american boutique)
   - Ring of Protection available for 15-20k gold
   - Various rare cloaks and weapons noted for future consideration
-- Tav bought 20 walloping arrows (400 gold), fire arrows (300 gold)
+- Tav bought 20 walloping arrows (400 gold, DC 10 STR save or prone)
 
 ### Team bonding
 

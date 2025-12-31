@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# Campaign Session Notes
+# Fellowship of the Idiots
+### Campaign Session Notes
 
-Welcome to the campaign! Below are our session summaries.
+A'hoy! Below are our session summaries.
 
 ## Sessions
 
