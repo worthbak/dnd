@@ -1,3 +1,4 @@
-title: Worth's D&D Campaign
-description: Session notes and campaign info
-theme: jekyll-theme-cayman
+title: D&D Campaign Notes
+   description: Session notes for active campaigns
+   theme: jekyll-theme-cayman
+   baseurl: "/dnd"
