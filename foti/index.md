@@ -25,3 +25,4 @@ A'hoy! Below are our session summaries.
 - [Session 14 - The Devil's Deal](sessions/session-14.md)
 - [Session 15 - Interrogation and Visions of Vapori](sessions/session-15.md)
 - [Session 16 - Market Ambush and Lantern Prison](sessions/session-16.md)
+- [Session 17 - Baldur's Gate Business and Revelations](sessions/session-17.md)
