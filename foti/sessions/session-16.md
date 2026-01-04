@@ -3,7 +3,7 @@ layout: session
 title: Session 16 - Market Ambush and Lantern Prison
 ---
 
-Dec 20 2026
+Dec 20 2025
 
 ### Campaign Recap & Character Status
 
