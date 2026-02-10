@@ -3,7 +3,7 @@ layout: session
 title: Session 17 - Baldur's Gate Business and Revelations 
 ---
 
-Feb 03 2026
+Jan 03 2026
 
 ### Character Setup & Equipment Procurement
 
