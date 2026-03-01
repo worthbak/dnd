@@ -26,4 +26,4 @@ A'hoy! Below are our session summaries.
 - [Session 15 - Interrogation and Visions of Vapori](sessions/session-15.md)
 - [Session 16 - Market Ambush and Lantern Prison](sessions/session-16.md)
 - [Session 17 - Baldur's Gate Business and Revelations](sessions/session-17.md)
-- [Session 16 - Escape from Baldur's Gate](sessions/session-18.md)
+- [Session 18 - Escape from Baldur's Gate](sessions/session-18.md)
