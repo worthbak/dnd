@@ -5,7 +5,7 @@ title: Session 24 - Battle at the Margaster's
 
 Feb 28 2026
 
-### Campaign Status Update
+### Campaign Recap
 
 - Party exited Eye of the All Father after artifact discussion
 - Ulrich left party to pursue pit fighting career in Mirabar
@@ -17,9 +17,9 @@ Feb 28 2026
 
 ### Asmodeus Meeting Setup
 
-- Velaxas (Asmodeus envoy) intercepted party upon exit
+- Valaxis (Asmodeus envoy) intercepted party upon exit of the Eye of the All Father
 - Meeting arranged at Margaster family estate in Silverymoon
-  - Same family robbed 14 sessions ago (magical daggers, dwarven thrower, scrolls, potions)
+  - Same family robbed during Session 14 (magical daggers, dwarven thrower, scrolls, potions)
   - Family holds grudge against party
 - Asmodeus is Zerai’s patron - lawful devil, won’t lie but will omit facts
 
@@ -30,11 +30,12 @@ Feb 28 2026
   - Starts at 1, increases by 1 each failed roll until surge triggers
   - Resets to 1 after surge occurs
 - Swapping previous feat for ability score increase (Constitution boost)
-- All party members have cloaks of protection
+- Most party members have cloaks of protection
 
 ### Asmodeus Contract Negotiation
 
-- Offered job collecting 5 artifacts to prevent primordial force escape
+- Party entered the Margaster estate after long-rest in the chariot with Valaxis
+- Offered job collecting 5 artifacts to prevent primordial force escape and provide them to Asmodeous 
 - Artifacts would be stored in Nessus (Asmodeus’s domain) for safety
 - Contract terms: souls forfeit if breached, rewards negotiable
 - Party declined offer due to concerns about concentrating power
@@ -42,36 +43,26 @@ Feb 28 2026
 
 ### Combat Encounter - Margaster Estate
 
-- Asmodeus removed estate’s magical protections before departing
+- Asmodeus removed estate’s magical protections before departing - he said they had become too comfortable 
 - Lady Margaster, her brother Brennan, and daughter attacked party
-- Two cambions (one missing hand from previous encounter) joined fight
-- Estate basement filling with brimstone and fire
-- Zerai and Normal escaped via Thunder Step through window
+- Two cambions (one missing hand after being punished for previous encounter) joined fight
+- Asmodeous caused the estate basement filling with brimstone and fire
+- Zerai and Norble escaped via Thunder Step through window
 - Roy charmed Brennan then fled to carriage
 - Shelf hid under table, escaped via Misty Step
 
 ### Escape and Aftermath
 
-- Party successfully fled in Velaxas’s nightmare-drawn chariot
+- Party successfully fled in Valaxis' nightmare-drawn chariot
 - Margaster estate erupted in flames behind them
-- Margasters seen gathering in carriage house with magical light burst
-- Silverymoon guards investigating burning estate
+- Margasters seen gathering in carriage house and Shelf saw a magical light burst after they entered 
+- Silverymoon guards started investigating burning estate
 - Party heading back to Everland
-
-### Current Party Composition
-
-- Zerai (warlock, Asmodeus patron)
-- Normal (barbarian)
-- Roy (centaur fighter/sorcerer)
-- Shelf (bard)
-- Dathis (new rogue member)
-- Colin (familiar/companion)
 
 ### Outstanding Items
 
-- Owe Kevin a dagger in Triboar
 - Margasters now actively competing for same artifacts
 - Need to decide next steps regarding artifact collection
-- Potential dragon plan still under consideration
-- Roy at 3/12 for wild magic
+- Potential fire giant plan still under consideration
+- Roy at 3/12 for wild magic rolls
 - Roy offered human transformation by Asmodeus, in exchange for his soul - Roy declined 
