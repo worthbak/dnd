@@ -46,7 +46,7 @@ Dec 20 2025
 - Olivier investigated lighthouse in a settlement north of Baldur’s Gate, Lathtarl's Lantern
 - Former pirate haven converted to maximum security Navy installation
 - 200 miles north, accessible by ship in ~1 day
-- Strategicly defensible location for a prison: rocky shores, defendable, near Larloch the Lich’s territory
+- Strategically defensible location for a prison: rocky shores, defendable, near Larloch the Lich’s territory
 - High probability Vapori imprisoned there
 
 ### Lich Threat Assessment
@@ -54,7 +54,7 @@ Dec 20 2025
 - **Larloch**: ancient Netherese wizard, defeated and crashed in marshlands
 - Said to command army of lesser liches
 - Phylactery-based immortality - life force is stored in physical object(s), and lich cannot die while the object is intact 
-- Larloch is immensly powerful - avoid direct confrontation recommended
+- Larloch is immensely powerful - avoid direct confrontation recommended
 
 ### Next Steps
 

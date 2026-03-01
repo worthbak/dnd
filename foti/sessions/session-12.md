@@ -12,7 +12,7 @@ Sun, 04 May 25
 - Eliza crafted new magical items for the crew:
   - For Oz: Cloak of Deflection (+2 AC, resistance to ranged attacks, can billow dramatically)
   - For Dorum: Great Axe of Terror (+2 weapon, 3 charges of terror effect) and Iron Bandolier (3 charges of special ammunition)
-  - For Tab: Working on smoke powder arrows and bombs
+  - For Tav: Working on smoke powder arrows and bombs
 - Need to fix Dorum’s Great Axe of Terror stats (+8 to hit, 1d12+5 damage)
 - Oz’s AC should be adjusted to 17 with new cloak
 
@@ -20,7 +20,7 @@ Sun, 04 May 25
 
 - Ship identified as HMS Dusk Arrow
 - Found arcane power source in hull that can teleport other ships to its location
-- Found in Ardril’s quarters:
+- Found in Ardryll’s quarters:
   - Documents about Vodari having elven heritage
   - Blue swirling mist in glass ampule labeled “essence preservation and transfer”
   - Burned documents
@@ -39,7 +39,7 @@ Sun, 04 May 25
 - Use modified ship to travel to Baldur’s Gate
 - Dorum appointed as captain of the modified ship
 - Plan to upgrade Night’s Fortune while away
-- Considering using teleportation device as trap for Sudrani ships
+- Considering using teleportation device as trap for Sudranian ships
 
 ### Combat Training Session
 
@@ -47,13 +47,13 @@ Initiative order:
 
 - Dorum (14)
 - Oz (13)
-- Tab (12)
+- Tav (12)
 - Ridge (8)
 
 Combat highlights:
 
 - Dorum used new exploding ammunition and Great Axe
-- Tab deployed lightning bolt and marked Dorum for death
+- Tav deployed lightning bolt and marked Dorum for death
 - Both fighters reduced to half hit points before session ended
 
 ### Key NPCs
@@ -64,7 +64,7 @@ Combat highlights:
 	- Unspecified potions for Oz (to help gain advantage in combat etc)
 	- Also working on fixing up Oz's crossbow, Sheila 
 - Ridge: Advising on ship operations and strategy
-- Captain Lissander Moonshadow: Captured Sudrani captain from Waterdeep nobility
+- Captain Lissander Moonshadow: Captured Sudranian captain from Waterdeep nobility
 
 ### Required Actions
 

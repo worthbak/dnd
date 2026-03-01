@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Session 16 - Escape from Baldur's Gate
+title: Session 18 - Escape from Baldur's Gate
 ---
 
 Feb 07 2026
@@ -12,7 +12,7 @@ Feb 07 2026
   - Confrontation with Dorum’s threatening parents
   - Petra Ravenblade delivered materials successfully
 - Intelligence gathering results
-  - Olivie received message about Laughing Carl’s Lantern
+  - Olivie received message about Lathtarl's Lantern
   - Tav investigated Blushing Mermaid lead
   - Prison blueprint obtained for rescue planning
 - Agreth background revealed

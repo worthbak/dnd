@@ -31,7 +31,7 @@ Wed, 01 Jan 25
 
 - Team currently has a fortress and small crew
     
-- Opportunity identified to confront Sudanian/Suburian Empire ship
+- Opportunity identified to confront Sudranian Empire ship
     
 - Current crew size: ~8 people (insufficient for full galleon operation which needs 20-30)
     
@@ -46,7 +46,7 @@ Wed, 01 Jan 25
 
 ### Character Development & Motivations
 
-- Tab’s character motivation explored:
+- Tav's character motivation explored:
     
     - Seeking revenge against those who hunted the group
         

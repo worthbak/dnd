@@ -21,7 +21,7 @@ title: Session 1 - Captured by Pirates
 - entering the room at the other end of the hall, they were greeted by [[Marland 'Iron Chest' Crutchley]]
 	- he laid out the deal for them
 	- party accepted, all other sailors rejected 
-- session ended with the party getting their gear back, plus on healing potion each 
+- session ended with the party getting their gear back, plus one healing potion each 
 - DM lessons
 	- Pay more attention to prep notes - needed to have place names closer at hand
 	- Check concentration in combat! 

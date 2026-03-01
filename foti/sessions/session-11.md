@@ -11,14 +11,14 @@ Tue, 25 Mar 25
 
 - Combat occurs on hex grid with ships moving minimum 1 hex per turn
 - Ships limited to 2 “clock tick” turns per standard move
-- Knight’s Fortune stats:
+- Night's Fortune stats:
   - 3 action points per turn
   - “Come about” action costs 2 points but allows 90-degree turn
   - Broadside attacks get full damage, fore/aft attacks reduced
   - Ship repair action takes full turn but recovers 8 HP
   - Ships become “stressed” at half HP, receiving disadvantage on checks
 
-### Knight’s Fortune Special Capabilities
+### Night's Fortune Special Capabilities
 
 - Jolly Raj gave a tour - i should write up specifics for this stuff
 - 16 total cannons (8 per side)
@@ -46,7 +46,7 @@ Tue, 25 Mar 25
 
 ### Ship Capture Operation
 
-- Successfully infiltrated Sodranian ship using PAPs
+- Successfully infiltrated Sudranian ship using PAPs
 - Killed cook and assistant in initial encounter
 - Defeated 7 crew members on gun deck
 - Captured ship’s captain through intimidation
@@ -56,10 +56,10 @@ Tue, 25 Mar 25
 ### Character Developments
 
 - Oz experiencing dreams about:
-  - Vaporeon - emotions of fear/pain/confusion
+  - Vapori - emotions of fear/pain/confusion
   - Vision of elven queen wearing Obsidian Helm
 - Tav focused on:
-  - Rescuing Vaporeon
+  - Rescuing Vapori
   - Concerns about pirate crew reliability
 - Dorum:
   - Lost 275 gold gambling with Silvershade (blackjack)
@@ -83,7 +83,7 @@ Tue, 25 Mar 25
 - Need to investigate why ship capture was unexpectedly easy
 - Must balance character combat capabilities
 - Plan to improve Dorum’s offensive abilities
-- Consider defensive upgrades for Knight’s Fortune
+- Consider defensive upgrades for Night's Fortune
 
 ### Next Steps
 
@@ -92,7 +92,7 @@ Tue, 25 Mar 25
   - Balance Tav’s combat bonuses
   - Upgrade Dorum’s equipment
   - Investigate captured ship’s mission
-  - Address Knight’s Fortune defensive capabilities
+  - Address Night's Fortune defensive capabilities
 
 ---
 QA: 
@@ -107,7 +107,7 @@ Key findings from Crutchley's documents:
 
 - Rough sketches of the Obsidian Helm, but no details about its capabilities
 
-- Brief mentions of the Voda people (blue shifters like Vaporeon)
+- Brief mentions of the Voda people (blue shifters like Vapori)
 
 - Odd census request from "TE" asking for crew details like species, birthplaces, and lineage
 
@@ -135,7 +135,7 @@ Oz:
 
 - Found peace with his past through recent experiences
 
-- Inspired by Vaporeon, focused on rescuing her
+- Inspired by Vapori, focused on rescuing her
 
 - Trusts Tav's leadership and willing to support
 
@@ -159,7 +159,7 @@ what's the status of Eme and the other sailors?
 
 ![](data:image/svg+xml,%3csvg%20width='174'%20height='174'%20viewBox='0%200%20174%20174'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3c!--%20%3crect%20width='174'%20height='174'%20fill='white'%20style='fill:white;fill:white;fill-opacity:1;'/%3e%20--%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M129.175%2031.5301V141.47C129.175%20143.965%20127.152%20145.988%20124.657%20145.988C122.162%20145.988%20120.139%20143.965%20120.139%20141.47V31.5301C120.139%2029.0349%20122.162%2027.012%20124.657%2027.012C127.152%2027.012%20129.175%2029.0349%20129.175%2031.5301ZM117.127%2031.5301C117.127%2027.3714%20120.498%2024%20124.657%2024C128.816%2024%20132.187%2027.3713%20132.187%2031.5301V141.47C132.187%20145.629%20128.816%20149%20124.657%20149C120.498%20149%20117.127%20145.629%20117.127%20141.47V31.5301ZM75.5911%2099.2186C74.6303%2099.2571%2073.5298%2099.3012%2071.6049%2099.3012C54.9355%2099.3012%2041.9551%2086.9433%2041.9551%2069.8643C41.9551%2052.6465%2054.9355%2040.5663%2073.1079%2040.5663H106.447V41.2605L100.162%2053.4796H97.429C101.665%2057.7841%20104.124%2063.4771%20104.124%2070.0032C104.124%2077.7789%20100.708%2084.7216%2095.6527%2088.3318V88.7484C102.348%2092.0808%20106.584%20100.412%20106.584%20109.854C106.584%20126.655%2092.92%20138.458%2072.9713%20138.458C58.0781%20138.458%2045.371%20131.932%2038.8125%20121.101L50.6998%20110.271C55.6186%20118.046%2064.09%20122.906%2073.3812%20122.906C82.809%20122.906%2089.3675%20117.769%2089.3675%20110.271C89.3675%20103.606%2084.5853%2099.1623%2077.8902%2099.1623C76.9956%2099.1623%2076.3353%2099.1888%2075.5911%2099.2186ZM72.9713%2055.8401C64.7732%2055.8401%2058.7612%2062.0885%2058.7612%2069.8643C58.7612%2077.9178%2064.6366%2084.0273%2072.9713%2084.0273C81.306%2084.0273%2087.4546%2077.9178%2087.4546%2069.8643C87.4546%2062.2274%2081.306%2055.8401%2072.9713%2055.8401Z'%20fill='currentColor'%20/%3e%3c/svg%3e)
 
-The transcript and notes don't contain any direct information about Eme or other sailors' current status. The most recent session focused on the capture of a Sodranian ship and the party's investigation of Crutchley's documents. Any previous information about Eme would need to be referenced from earlier sessions.
+The transcript and notes don't contain any direct information about Eme or other sailors' current status. The most recent session focused on the capture of a Sudranian ship and the party's investigation of Crutchley's documents. Any previous information about Eme would need to be referenced from earlier sessions.
 
 ![](https://lh3.googleusercontent.com/a/ACg8ocLpcpRhsqVoTyWUJmy1KjCwO-8DngW5tYXE46gEMf39BhlYvCc=s96-c)
 

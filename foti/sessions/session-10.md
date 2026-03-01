@@ -22,7 +22,7 @@ Tue, 11 Mar 25
 
 ### Discovery of Magical Items
 
-- Found in hidden cavity behind wardrobe in Crutchly’s office:
+- Found in hidden cavity behind wardrobe in Crutchley's office:
   - Mace of Terror (3 charges, DC 15 fear effect)
   - Shield of Missile Attraction (grants resistance to ranged attacks, cursed)
   - Enchanted short sword with lightning bolt capabilities (6 charges, regains 1d6 at dawn)
@@ -43,14 +43,14 @@ Tue, 11 Mar 25
   - Met gnome blacksmith [[Eliza Glembus]] and assistant [[Thaddeus Frybick]]
   - **Arranged for weapon improvements overnight**
 
-### Crutchly’s Office Investigation
+### Crutchley's Office Investigation
 
 - Found hidden compartment behind wardrobe
 - Discovered trap door leading to underwater grotto
 - Retrieved documents (now water-damaged)
 - Found evidence of connection to “Scourge of the Keelhaul” pirate confederation
 - Located maps showing trade routes between:
-  - Mooonshae Isles
+  - Moonshae Isles
   - Baldur’s Gate
   - Sword Coast cities
 
@@ -76,7 +76,7 @@ Tue, 11 Mar 25
 ### Strategic Preparations
 
 - Secured Night’s Fortune ship with trusted crew
-- Arranged burial at sea for Crutchly’s remains
+- Arranged burial at sea for Crutchley's remains
 - Identified potential internal threats:
   - Former allies of Hex
   - Individual named Cylus identified as potential problem

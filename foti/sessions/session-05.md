@@ -14,7 +14,7 @@ title: Session 5 - Victory and the Treasure Hoard
 - Ridge bargains for his life, and the crew spares him - Oz ties him up
 - Tav groks the iron medallion on a high insight check, and also finds a dossier on Ardryll's body 
 - Oz finds a room full of gold
-	- Oz is a bit overwhelmed takes 1gp for his fallend ally (Endrik)
+	- Oz is a bit overwhelmed takes 1gp for his fallen ally (Endrik)
 	- 16k gp, with dolrum taking the max 
 	- Tav thinks she won't have to pay the rescued sailors 
 	- dolrum uses the necromancer’s heart to resurrect the body of Marland and have it carry additional gold 

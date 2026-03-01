@@ -68,7 +68,7 @@ Wed, 14 May 25
 
 - Dolrum discovered magical wine bottle (properties unknown)
 - Tav sought solitude in Upper City park:
-  - Experienced spiritual moment with Milky
+  - Experienced spiritual moment with Mielke
   - Contemplated balance vs. vengeance
 - Dolrum followed blood trail into potential ambush situation:
   - Trapped in private courtyard

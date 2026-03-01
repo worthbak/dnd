@@ -10,7 +10,7 @@ Sun, 30 Nov 25
 ### Game Session Recap
 
 - 5 months since last D&D session
-- Characters still in courtyard with Jotham Marcaster (1 HP, unconscious but alive after devil resurrection deal)
+- Characters still in courtyard with Jotham Margaster (1 HP, unconscious but alive after devil resurrection deal)
 - Oz has 4 levels of exhaustion (-8 to D20 rolls), will lose 1 level per long rest
 - Devil’s curse on Dolrum: DC12 con save when killing someone
   - Failure: 1d6 necrotic damage
@@ -18,12 +18,12 @@ Sun, 30 Nov 25
 
 ### Interrogation & New Intelligence
 
-- Jotham Marcaster revealed Marcus family operations:
+- Jotham Margaster revealed Margaster family operations:
   - Hired by father to provide elven bodies to Waterdeep
   - Switched from finding dead bodies to kidnapping live elves
   - Bodies going to royals/those controlling high seas commerce
 - Jotham is third son, low-status family member with limited knowledge
-- Oz’s insight: Marcus family are high-status smugglers/kidnappers across Faerun
+- Oz’s insight: Margaster family are high-status smugglers/kidnappers across Faerun
 - Payment extracted: 1,100 gold (split 400 each) plus valuable items
 - after extracting payment on-site, Tav executes Jotham and leaves him beheaded in his bedroom 
 
@@ -52,7 +52,7 @@ Sun, 30 Nov 25
 ### Team bonding
 
 - Oz shared his backstory with Tav and Dolrum, including his connection to the margasters
-- Dolrum revealed a past attempt to defraud the coffee shop there they met, The Grind (or Grindr), where he pretended to be a bulk coffee bean purchaser in exchange for free samples
+- Dolrum revealed a past attempt to defraud the coffee shop where they met, The Grind (or Grindr), where he pretended to be a bulk coffee bean purchaser in exchange for free samples
 - Dolrum also shit his pants after drinking too much coffee and got re-banned from the coffee shop 
 - Tav asked Dolrum if he’d reached out to his parents - Dolrum has not
 

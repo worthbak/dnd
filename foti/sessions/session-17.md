@@ -11,7 +11,7 @@ Jan 03 2026
 	- Tav will head back to Varg's Pawn Shop to pick up some more gear 
 	- Dolrum and Oz will go and get their ship upgrades purchased 
 - Oz helps Tav, disguising her as "Portman" to head into town (adds +3 to her stealth)
-- Tav leaves pre-dawn, and finds Olivie on the deck of the ship, lamenting how she has drawn the ire of the Sudranian's 
+- Tav leaves pre-dawn, and finds Olivie on the deck of the ship, lamenting how she has drawn the ire of the Sudranians 
 - Olivia received intel via encrypted bird message about Vapori’s location 
 	- Message said "LL INFO; BM DROP"
 	- Contact has left intel at their dead drop at the Blushing Mermaid tavern 
@@ -39,7 +39,7 @@ Jan 03 2026
 
 ### Ship Upgrades & Tactical Preparations
 
-- Seawise Shipwrights proprieter, Petra Ravenblade, offering three upgrade packages:
+- Seawise Shipwrights proprietor, Petra Ravenblade, offering three upgrade packages:
   1. Reinforced hull plating (8,000 gold) - increased AC, small arms resistance
   2. Enchanted wind sails (9,000 gold) - speed boost, wind-independent movement
   3. Kraken’s Reach harpoon system (7,500 gold) - grappling weapon for boarding

@@ -10,7 +10,7 @@ Feb 28 2026
 - Party exited Eye of the All Father after artifact discussion
 - Ulrich left party to pursue pit fighting career in Mirabar
   - Provides goodwill connection in Mirabar for future use
-- Dathis joined the party as new member
+- Dafis joined the party as new member
 - Harshnag departed to Waterdeep
   - Left long-range sending stone (once daily use)
   - Can teleport to Waterdeep to find him if needed
@@ -35,7 +35,7 @@ Feb 28 2026
 ### Asmodeus Contract Negotiation
 
 - Party entered the Margaster estate after long-rest in the chariot with Valaxis
-- Offered job collecting 5 artifacts to prevent primordial force escape and provide them to Asmodeous 
+- Offered job collecting 5 artifacts to prevent primordial force escape and provide them to Asmodeus 
 - Artifacts would be stored in Nessus (Asmodeus’s domain) for safety
 - Contract terms: souls forfeit if breached, rewards negotiable
 - Party declined offer due to concerns about concentrating power
@@ -46,7 +46,7 @@ Feb 28 2026
 - Asmodeus removed estate’s magical protections before departing - he said they had become too comfortable 
 - Lady Margaster, her brother Brennan, and daughter attacked party
 - Two cambions (one missing hand after being punished for previous encounter) joined fight
-- Asmodeous caused the estate basement filling with brimstone and fire
+- Asmodeus caused the estate basement filling with brimstone and fire
 - Zerai and Norble escaped via Thunder Step through window
 - Roy charmed Brennan then fled to carriage
 - Shelf hid under table, escaped via Misty Step

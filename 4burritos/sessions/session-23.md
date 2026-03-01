@@ -23,7 +23,7 @@ When the party gave the conch to Asmodeus, it left the material plane, and the W
 
 The party weighed several courses of action and next steps, ultimately deciding that disrupting the Fire Giant Duke Zalto's plan to use his artifact, the Crown, to power the Vonindod (which the Watcher warned could have destabilizing consequences for the seal, representing the most pressing threat) was their immediate plan, traveling to Ironslag on their way west to find King Heketon. The party’s main idea is to acquire a fake a power source/artifact for the Vonindod (likely a forged conch or similar) and have a wizard enchant it so it looks and feels real. They’d then trick Duke Zalto into using the fake instead of his crown, ideally preserving the crown’s role in the prison seal. Ideally, they want the fake artifact imbued with teleportation magic, so that when Zalto activates it, it teleports Zalto and/or the Vonindod away or otherwise disables his plan. 
 
-Departing from the Watcher's domain (and after some terrifying discussion of the dreaded *Lasagna Dimesion*), the Harshnaag parted with the party, insisting that he needed to strategize with his allies in Waterdeep. He left a limited-use long-range sending stone (one message/day) with Zerai, and lit an enchanted match that teleported him elsewhere. Ulrik also said his goodbyes, noting that he felt a deep longing to explore a life amongst other dwarves in Mirabar, but that he would always be available to the party if they needed him. He left his Cloak of Protection to Dafis, and flew away. 
+Departing from the Watcher's domain (and after some terrifying discussion of the dreaded *Lasagna Dimension*), the Harshnaag parted with the party, insisting that he needed to strategize with his allies in Waterdeep. He left a limited-use long-range sending stone (one message/day) with Zerai, and lit an enchanted match that teleported him elsewhere. Ulrik also said his goodbyes, noting that he felt a deep longing to explore a life amongst other dwarves in Mirabar, but that he would always be available to the party if they needed him. He left his Cloak of Protection to Dafis, and flew away. 
 
 Exiting the temple, the party was greeted by the sudden appearance of a lesser devil, named Valaxis, who beckoned the party to join him on a journey to Silverymoon, where Asmodeus requested their presence for a meeting at the Margaster estate. All were wary of returning to the estate, but decided that delaying a meeting with Asmodeus, or splitting the party, brought its own perils. The party climbed into Valaxis' nightmare-driven carriage and rocketed into the sky. 
 
@@ -65,8 +65,8 @@ Exiting the temple, the party was greeted by the sudden appearance of a lesser d
 ### Character Developments
 
 - Party leveled to 9 after oracle encounter
-- New party member: Dapis (elf rogue, Order of Sixth Watch, has teleport key)
-- Ulrich retiring to Mirabar, gave cloak of protection and ice rune shard to party
+- New party member: Dafis (elf rogue, Order of Sixth Watch, has teleport key)
+- Ulrik retiring to Mirabar, gave cloak of protection and ice rune shard to party
 - Zerai gets daily contact with Asmodeus ability at level 9
 
 ### Session Management Notes
