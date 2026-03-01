@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Session 23 - Revalations with the Watcher
+title: Session 23 - Revelations with the Watcher
 ---
 
 Feb 28 2026
