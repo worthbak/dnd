@@ -7,7 +7,6 @@ Mar 09 2026
 
 ### Character Level Updates
 
-- Party now level 8 (Steve's character skips to level 5)
 - Tweaked NPC combat stats for balance:
   - Tana/Vethna reduced from 3 attacks to 2
   - Olivier reduced from 3 attacks to 2, lower HP
@@ -26,7 +25,7 @@ Mar 09 2026
 
 ### Lighthouse Infiltration
 
-- Breached lighthouse entrance, eliminated two guard defenders
+- Breached lighthouse entrance, descended stairs and eliminated two guard defenders
 - Dorum's axe consumed souls for additional necrotic damage
 - Found important intelligence in guard station:
   - Keys to prison areas
