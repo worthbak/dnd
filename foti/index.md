@@ -29,3 +29,4 @@ A'hoy! Below are our session summaries.
 - [Session 18 - Escape from Baldur's Gate](sessions/session-18.md)
 - [Session 19 - Prison Break Planning](sessions/session-19.md)
 - [Session 20 - Lighthouse Assault and Prison Infiltration](sessions/session-20.md)
+- [Session 21 - The Crystal Leviathan](sessions/session-21.md)
