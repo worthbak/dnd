@@ -12,3 +12,5 @@ Hello! Below are our session summaries.
 - [Session 23 - Revelations with the Watcher](sessions/session-23.md)
 - [Session 24 - Battle at the Margaster's](sessions/session-24.md)
 - [Session 25 - Intelligence Gathering in Everlund](sessions/session-25.md)
+- [Session 26 - The Adamantine Dagger and the Descent](sessions/session-26.md)
+
